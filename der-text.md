@@ -7,3 +7,4 @@ Er ist
 * bunt
 * ansprechend
 * ganz toll
+* diese ist eine Änderung
