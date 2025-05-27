@@ -6,5 +6,5 @@ Er ist
 
 * bunt
 * ansprechend
-* ganz toll
+* ganz
 * diese ist eine Änderung
